@@ -26,7 +26,9 @@ In industrial manufacturing, identifying defective equipment is a critical yet c
 
 ## Dataset
 - **Training Data**: 1187 images categorized into defective and non-defective classes.
+- [Train dataset](https://drive.google.com/file/d/1nUGXBko86zS2cTvJ94BQteZXSJhqBq1d/view?usp=drive_link)
 - **Test Data**: 254 images, distributed into the same categories.
+- [Test dataset](https://drive.google.com/file/d/1IzMEaWlj9uEYSz2BrgNlnKkrr686ktFQ/view?usp=sharing)
 - **Image Details**: 
   - Format: RGB
   - Resolution: 64x64 pixels
